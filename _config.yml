@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Jumble of thoughts
 
 # Your name to show in the footer
-author: Some Person
+author: Aaron Bishop
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -50,7 +50,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: daattali
   twitter: daattali
 #  medium: yourname
@@ -91,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "the-siegfried.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -229,7 +229,7 @@ footer-hover-col: "#0085A1"
 #  mapping: pathname
 #  reactions-enabled: 1
 #  emit-metadata: 0
-theme: dark
+#  theme: dark
 
 ################
 # --- Misc --- #
