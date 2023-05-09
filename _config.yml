@@ -20,11 +20,12 @@ author: Aaron Bishop
 ###############################################
 
 navbar-links:
+  Blog: "blog"
+  Projects: "projects"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -51,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: daattali
-  twitter: daattali
+  github: the-siegfried
+#  twitter: daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: in/the-real-aaron-bishop
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
