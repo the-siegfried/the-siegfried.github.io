@@ -20,7 +20,7 @@ author: Aaron Bishop
 ###############################################
 
 navbar-links:
-  Blog: "blog"
+  Blog: "/"
   Projects: "projects"
   About Me: "aboutme"
   Resources:
