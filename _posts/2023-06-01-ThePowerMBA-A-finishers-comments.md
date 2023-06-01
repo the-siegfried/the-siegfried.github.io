@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ThePowerMBA - A Finishers Comments
-cover-img: /assets/img/ThePowerMBA-header.jpeg
+cover-img: /assets/img/ThePowerMBA-header.png
 tags: [business, review]
 ---
  
