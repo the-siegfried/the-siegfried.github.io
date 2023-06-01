@@ -1,3 +1,10 @@
+---
+layout: post
+title: ThePowerMBA - A finishers comments
+cover-img: /assets/img/ThePowerMBA-header.jpeg
+tags: [business, review]
+---
+
 # ThePowerMBA: A finishers comments
  
 Having now completed the ThePowerMBA, I decided to write about my experience so that others considering the course can stumble across this blog and gain insight. 
