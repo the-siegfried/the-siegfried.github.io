@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An incident response guide
-cover-img: /assets/img/soc-engineer.jpeg
+cover-img: /assets/img/soc-engineer.jpg
 tags: [business, cyber, security, planning]
 ---
  
