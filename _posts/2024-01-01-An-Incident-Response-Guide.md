@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An incident response guide
-cover-img: /assets/img/ThePowerMBA-header.jpeg
+cover-img: /assets/img/soc-engineer.jpeg
 tags: [business, cyber, security, planning]
 ---
  
