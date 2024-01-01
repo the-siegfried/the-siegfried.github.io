@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An incident response guide
+cover-img: /assets/img/incident-response-header.jpg
 tags: [business, cyber, security]
 ---
  
