@@ -1,8 +1,7 @@
 ---
 layout: post
 title: An incident response guide
-cover-img: /assets/img/soc-engineer.jpg
-tags: [business, cyber, security, planning]
+tags: [business, cyber, security]
 ---
  
 How you and your business can create an efficient plan for responding to a cyber security attack. 
@@ -29,6 +28,7 @@ There are ten key steps to an effective incident response plan:
 10. Resource for combat
 
 Let’s take a closer look at each of them.
+
  
 ## 1. Stakeholder discovery 👪
 The planning and definition of an effective incident response plan do not solely sit on the shoulders of your organisation's security team. In the event of an incident, almost every department in your organisation will have a part to play to ensure the response is correctly coordinated. Thus, you must first determine who should be involved and what duties they must carry out in the event of an attack. This list of stakeholders typically includes senior management, legal, public relations, IT, and, of course, your security department. 
@@ -38,11 +38,9 @@ This stakeholder identification exercise should be completed before any planning
 Additionally, a method of communication needs to be established to enable rapid response. You must consider that your usual communication channels may be compromised, and the attacker may be listening to them. That is if you can even still gain access to them at all.
 
 
-
 ## 2. Critical asset identification 💎
  
 During an attack, you must already understand your organisation's critical assets and where they are. This way, you can determine the scope and impact of the attack and direct where your security team needs to focus their efforts during the remediation stages of your incident response plan, minimising disruption to your business.
-
 
  
 ## 3. Testing your reflexes 🏃
@@ -80,6 +78,7 @@ Attackers will try to leverage weak access controls to infiltrate your organisat
 *Changing default passwords.
 * Reducing the number of assets/access points you need to monitor by decommissioning unnecessary or unused assets and access points.
 
+
 ## 7. Invest in your investigation tooling 🧰
 
 Once your organisation has nailed down and ascertained maximum visibility, you should also invest in the right investigatory tooling to enable your incident response team to provide the necessary context during an investigation. These tools don’t have to cost the earth either, and in some cases, can be supplemented with well-maintained open-source ones.
@@ -89,6 +88,7 @@ Some of the most common tools used in incident response include endpoint detecti
 The more data is collected, the more context is available and the better the picture we can paint. Having broad visibility by collecting event data from network devices, endpoints and more should enable your analysts to determine not only what the attackers were targeting but also how and where they gained initial access to your environment. They can also understand whether or not the attackers still have the ability to gain access using persistence methods.
 
 There is a wide array of tools that may be helpful to your security team and, in particular, your incident response team, which will be discussed in another article at another time. However, here is a key headline - **it’s important to ensure your team has access to the right tools.**
+
 
 ## 8. Create an action plan 🏗️
 
@@ -105,11 +105,13 @@ Detection (although very important) is just one piece of the incident response p
 * Adjusting your configurations (updating your firewall policies and EDR tools to identify and prevent similar attacks in the future).
 * Restoring impacted assets to health. 🩹
 
+
 ## 9. Awareness training 🧠
 
 As it’s often the case, the user is the weakest link in your organisation. While no training program will ever be 100% effective against the most cunning and determined adversary, education programs help reduce risk and potentially the number of alerts your security team should manage. But make sure the training is as engaging as it is informative and doesn’t lead down the trail to scaremongering. Remember, you still want effective employees!
 
 Phishing simulations using tools such as (GoPhish) [https://getgophish.com/] provide a safe way for your staff to experience phishing and enable your security team to identify risky user groups who may require additional training. 
+
 
 ## 10. Resource for combat 🔫
 
@@ -120,6 +122,7 @@ It’s important you make the right decision for your business, whether promotin
 Managed Detection and Response (MDR) services are a popular option for many reasons, one of the most prominent being offsetting risks. MDR providers typically offer 24/7 threat hunting, investigation, and incident response, all rolled into a single package. They not only help your organisation respond to threats but also typically provide risk assessment services with mitigation or hygiene workbooks to reduce the likelihood of an incident in the first place. 
 
 Digital Forensic Incident Response (DFIR) services are also occasionally retained after an incident to collect evidence for supporting legal or insurance claims. 
+
 
 ## In conclusion
 
